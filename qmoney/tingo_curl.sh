@@ -1,0 +1,1 @@
+curl --location 'https://api.tiingo.com/tiingo/daily/GOOGL/prices?endDate=2020-08-18&token=c00e24080fccf5b0325a78647f715942b27072d4'
